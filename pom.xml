@@ -42,6 +42,15 @@
 				<role>tech master</role>
 			</roles>
 		</developer>
+        <developer>
+            <id>Leo</id> 
+            <name>Leonardo</name> 
+            <email>leo@tmht.com</email> 
+            <url>http://www.tmht.com/leo</url> 
+            <roles>
+                <role>leader</role> 
+            </roles>
+        </developer>    
     </developers>
 
     <dependencies>
